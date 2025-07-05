@@ -4,7 +4,7 @@
   🌱 2nd Year IT Undergrad @ JIIT Noida<br>
   💻 Currently learning <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>Backend Development</strong><br>
   🧠 Also experienced with <strong>C++</strong>, <strong>DSA</strong>, <strong>Python</strong>, and <strong>OpenCV</strong><br>
-  🎨 Comfortable with <strong>Design & Media tools</strong> like After Effects, Blender, Photoshop, Premiere Pro, Illustrator<br>
+  🎨 Comfortable with <strong>Design & Media tools</strong> like After Effects, Blender, Photoshop, Premiere Pro, Illustrator, Figma, and Framer<br>
   📱 Learning <strong>Dart</strong> & <strong>Flutter</strong> for mobile dev<br>
   🚀 Building full-stack apps and exploring <strong>3D with Three.js</strong><br>
   📚 Preparing for internships with a focus on <strong>DevOps</strong> & <strong>Cloud Technologies</strong><br>
@@ -28,6 +28,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### 🎨 Design & Media  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
@@ -55,10 +57,10 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/shourya-singh" target="_blank">
+  <a href="https://www.linkedin.com/in/shourya-singh-297297358" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shourya@email.com">
+  <a href="mailto:shourya124sensei@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
