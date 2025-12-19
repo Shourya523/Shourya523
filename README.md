@@ -60,11 +60,9 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ShouryaSensei?theme=dark&ext=heatmap" height="260"/>
-  <p align="center">
   <a href="https://codolio.com/profile/Shourya124sensei" target="_blank">
     <img src="https://codolio.com/codolio.svg?username=Shourya124sensei" />
   </a>
-</p>
 </p>
 
 ---
