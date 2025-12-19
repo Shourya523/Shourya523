@@ -60,7 +60,7 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ShouryaSensei?theme=dark&ext=heatmap" height="260"/>
-  <img src="https://codolio.com/codolio.svg?username=Shourya124Sensei" height="260"/>
+  <img src="https://codolio.com/codolio.svg?username=Shourya124sensei" height="260"/>
 </p>
 
 ---
