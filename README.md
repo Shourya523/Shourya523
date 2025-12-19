@@ -2,7 +2,7 @@
 
 <p align="center">
   🌱 2nd Year IT Undergrad @ JIIT Noida<br>
-  💻 Currently learning <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>Backend Development</strong><br>
+  💻 Currently learning <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Node.js</strong><br>
   🧠 Also experienced with <strong>C++</strong>, <strong>DSA</strong>, <strong>Python</strong>, and <strong>OpenCV</strong><br>
   🎨 Comfortable with <strong>Design & Media tools</strong> like After Effects, Blender, Photoshop, Premiere Pro, Illustrator, Figma, and Framer<br>
   📱 Learning <strong>Dart</strong> & <strong>Flutter</strong> for mobile dev<br>
@@ -19,9 +19,11 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -50,6 +52,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shourya523&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shourya523&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya523&layout=compact&theme=radical" height="150" />
+</p>
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ShouryaSensei?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/ShouryaSensei/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-ShouryaSensei-orange?style=flat&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
