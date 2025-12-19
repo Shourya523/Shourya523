@@ -55,13 +55,13 @@
 </p>
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 Problem Solving
 
 <p align="center">
-  <a href="https://codolio.com/profile/Shourya124Sensei">
-    <img src="https://codolio.com/codolio.svg?username=ShouryaSensei" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/ShouryaSensei?theme=dark&ext=heatmap" height="260"/>
+  <img src="https://codolio.com/codolio.svg?username=Shourya124Sensei" height="260"/>
 </p>
+
 
 
 ---
