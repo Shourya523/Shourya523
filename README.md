@@ -53,6 +53,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shourya523&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya523&layout=compact&theme=radical" height="150" />
 </p>
+
 ---
 
 ## 🧠 Problem Solving
@@ -61,8 +62,6 @@
   <img src="https://leetcard.jacoblin.cool/ShouryaSensei?theme=dark&ext=heatmap" height="260"/>
   <img src="https://codolio.com/codolio.svg?username=Shourya124Sensei" height="260"/>
 </p>
-
-
 
 ---
 
