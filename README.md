@@ -58,14 +58,11 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ShouryaSensei?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/ShouryaSensei/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-ShouryaSensei-orange?style=flat&logo=leetcode&logoColor=white" />
+  <a href="https://codolio.com/profile/Shourya124Sensei">
+    <img src="https://codolio.com/codolio.svg?username=ShouryaSensei" />
   </a>
 </p>
+
 
 ---
 
