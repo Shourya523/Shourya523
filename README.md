@@ -61,7 +61,7 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ShouryaSensei?theme=dark&ext=heatmap" height="260"/>
   <a href="https://codolio.com/profile/Shourya124sensei" target="_blank">
-    <img src="https://codolio.com/codolio.svg?username=Shourya124sensei" />
+        <img src="https://img.shields.io/badge/Codolio-Full%20Profile-blueviolet?style=flat&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
