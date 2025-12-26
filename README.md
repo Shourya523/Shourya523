@@ -30,21 +30,30 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat)
 
-### 🗄️ Databases  
+
+### 🗄️ Databases & ORM  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat)
 
-### 🔐 Auth & Backend Tools  
+
+### 🔐 Auth, Backend & Infra  
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat&logo=firebase&logoColor=black)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
 
-### 🤖 AI, APIs & LLM Tooling  
+### 🤖 AI, LLMs & APIs  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=flat&logo=google&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-AI%20Voice-black?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-000000?style=flat)
-![LM%20Studio](https://img.shields.io/badge/LM%20Studio-LLM%20Runtime-4B5563?style=flat)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-LLM%20Runtime-4B5563?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6B7280?style=flat)
 
 
 ### 🎨 Design & Media  
@@ -61,6 +70,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+
+### 🧰 Dev Tools & Workflow  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
