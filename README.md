@@ -3,7 +3,8 @@
 <p align="center">
   🌱 2nd Year IT Undergrad @ JIIT Noida<br>
   💻 Currently learning <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Node.js</strong><br>
-  🧠 Also experienced with <strong>C++</strong>, <strong>DSA</strong>, <strong>Python</strong>, and <strong>OpenCV</strong><br>
+  🧠 🧠 Experienced with <strong>C++</strong>, <strong>DSA</strong>, <strong>Python</strong>, <strong>OpenCV</strong>, and backend systems<br>
+
   🎨 Comfortable with <strong>Design & Media tools</strong> like After Effects, Blender, Photoshop, Premiere Pro, Illustrator, Figma, and Framer<br>
   📱 Learning <strong>Dart</strong> & <strong>Flutter</strong> for mobile dev<br>
   🚀 Building full-stack apps and exploring <strong>3D with Three.js</strong><br>
@@ -26,8 +27,25 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🔐 Auth & Backend Tools  
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### 🤖 AI, APIs & LLM Tooling  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=flat&logo=google&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-AI%20Voice-black?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-000000?style=flat)
+![LM%20Studio](https://img.shields.io/badge/LM%20Studio-LLM%20Runtime-4B5563?style=flat)
+
 
 ### 🎨 Design & Media  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
