@@ -101,6 +101,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shourya523&label=Profile%20Views&color=0bbcd6&style=flat" alt="visitor count"/>
+</p>
+
+---
+
+
 ## 🌐 Connect with Me
 
 <p>
