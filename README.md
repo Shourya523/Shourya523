@@ -82,9 +82,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shourya523&theme=radical&row=1&column=6" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shourya523&theme=radical" />
+
 
 
 ---
